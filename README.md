@@ -14,4 +14,4 @@ This example uses [an image from Wikimedia commons](https://upload.wikimedia.org
 
 Hover over the marker or click here to see the image.
 
-==The marker image will also appear when hovering over this text.  Clicking on this text will also cause the map to zoom in on the marker location.=={flyto=wc:450px-Norwich-Vermont-Bragg_Hill-Autumn.jpg,43°43′49″N 72°18′11″W}
+==The marker image will also appear when hovering over this text.  Clicking on this text will also cause the map to zoom in on the marker location.=={flyto=wc:450px-Norwich-Vermont-Bragg_Hill-Autumn.jpg, 14}

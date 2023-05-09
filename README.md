@@ -1,2 +1,1 @@
-# essays
-Juncture visual essays
+# Paul Sample, Beaver Meadow

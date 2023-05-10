@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "757688ba"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "His original sketches depicted these cats as chickens!",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://hood.resourcespace.com/iiif/image/17895",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2017.05078125,3365.59765625,1073.3671875,542.624755859375"
+      },
+      "id": ""
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3ee03289"
   }
 ]

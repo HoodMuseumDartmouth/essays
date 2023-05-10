@@ -7,11 +7,11 @@ Its lean, decorative composition, stripped of extraneous detail, recalls popular
 
 
 # Norwich
-.ve-map 43.730278,-72.303056 11 marker width=50%
+.ve-map 43.730278,-72.303056 13 basemaps=Esri_WorldTopoMap left
     - 43.730278,-72.303056, "Norwich, Vermont"
     - wc:450px-Norwich-Vermont-Bragg_Hill-Autumn.jpg
     
 
-Norwich, Vermont is now a place where very rich people live. This line will in no way make it to the public [an image from Wikimedia commons](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Norwich-Vermont-Bragg_Hill-Autumn.jpg/450px-Norwich-Vermont-Bragg_Hill-Autumn.jpg).  In order to get the flyto animation, I need to geotag an image in a repo with the coordinates in exiftool. I do not have that repo.
+Norwich, Vermont is now a place where very rich people live. That line will in no way make it to the public [an image from Wikimedia commons](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Norwich-Vermont-Bragg_Hill-Autumn.jpg/450px-Norwich-Vermont-Bragg_Hill-Autumn.jpg).  In order to get the flyto animation, I need to geotag an image in a repo with the coordinates in exiftool. I do not have that repo.
 
-However, if we did want to experience what the flyto animation does, this is an example with arches:
+I could also not find the correct geographic coordinates for something called Beaver Meadow in Norwich, but that would be super awesome if I could. Then I could put a side-by-side comparison of the two.

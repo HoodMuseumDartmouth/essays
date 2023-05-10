@@ -9,6 +9,7 @@ Its lean, decorative composition, stripped of extraneous detail, recalls popular
 # Norwich
 .ve-map 43.730278,-72.303056 13 marker-type=circle basemaps=Esri_WorldTopoMap left
     - 43.730278,-72.303056, "Norwich, Vermont"
+    -Q1510465
     - wc:450px-Norwich-Vermont-Bragg_Hill-Autumn.jpg
     
 
@@ -26,3 +27,6 @@ This example uses [an image from Wikimedia commons](https://commons.wikimedia.or
 Hover over the marker or click here to see the image.
 
 ==The marker image will also appear when hovering over this text.  Clicking on this text will also cause the map to zoom in on the marker location.=={flyto=wc:Double-O-Arch_Arches_National_Park_2.jpg,14}
+
+# The artist's process
+.ve-media https://hoodmuseumdartmouth.github.io/PaulSample/manifests/BeaverMeadow-FULL.json 

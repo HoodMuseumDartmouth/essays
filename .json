@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "These used to be chickens in his sketch!",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://hood.resourcespace.com/iiif/image/17895",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2056.658447265625,3325.989990234375,1097.131591796875,621.840087890625"
+      },
+      "id": ""
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "757688ba"
+  }
+]

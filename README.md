@@ -7,7 +7,7 @@ Its lean, decorative composition, stripped of extraneous detail, recalls popular
 
 
 # Norwich
-.ve-map 43.730278,-72.303056 13 basemaps=Esri_WorldTopoMap left
+.ve-map 43.730278,-72.303056 13 marker-type=circle basemaps=Esri_WorldTopoMap left
     - 43.730278,-72.303056, "Norwich, Vermont"
     - wc:450px-Norwich-Vermont-Bragg_Hill-Autumn.jpg
     
@@ -15,3 +15,14 @@ Its lean, decorative composition, stripped of extraneous detail, recalls popular
 Norwich, Vermont is now a place where very rich people live. That line will in no way make it to the public [an image from Wikimedia commons](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Norwich-Vermont-Bragg_Hill-Autumn.jpg/450px-Norwich-Vermont-Bragg_Hill-Autumn.jpg).  In order to get the flyto animation, I need to geotag an image in a repo with the coordinates in exiftool. I do not have that repo.
 
 I could also not find the correct geographic coordinates for something called Beaver Meadow in Norwich, but that would be super awesome if I could. Then I could put a side-by-side comparison of the two.
+
+# Isn't this cool?
+
+.ve-map Q223969 5 right
+    - wc:Double-O-Arch_Arches_National_Park_2.jpg
+
+This example uses [an image from Wikimedia commons](https://commons.wikimedia.org/wiki/File:Double-O-Arch_Arches_National_Park_2.jpg) for a marker.  The image used in this example includes embedded Exif (Exchangeable image file format) data with geographic coordinates.
+
+Hover over the marker or click here to see the image.
+
+==The marker image will also appear when hovering over this text.  Clicking on this text will also cause the map to zoom in on the marker location.=={flyto=wc:Double-O-Arch_Arches_National_Park_2.jpg,14}

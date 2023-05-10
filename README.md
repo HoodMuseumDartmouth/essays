@@ -7,11 +7,9 @@ Its lean, decorative composition, stripped of extraneous detail, recalls popular
 
 
 # Norwich
-.ve-map Q1510465 8 right
+.ve-map Q1510465 8 marker  left
     - wc:450px-Norwich-Vermont-Bragg_Hill-Autumn.jpg
 
-This example uses [an image from Wikimedia commons](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Norwich-Vermont-Bragg_Hill-Autumn.jpg/450px-Norwich-Vermont-Bragg_Hill-Autumn.jpg) for a marker.  The image used in this example includes embedded Exif (Exchangeable image file format) data with geographic coordinates.
+Norwich, Vermont is now a place where very rich people live. This line will in no way make it to the public [an image from Wikimedia commons](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Norwich-Vermont-Bragg_Hill-Autumn.jpg/450px-Norwich-Vermont-Bragg_Hill-Autumn.jpg).  In order to get the flyto animation, I need to geotag an image in a repo with the coordinates in exiftool. I do not have that repo.
 
-Hover over the marker or click here to see the image.
-
-==The marker image will also appear when hovering over this text.  Clicking on this text will also cause the map to zoom in on the marker location.=={flyto=wc:450px-Norwich-Vermont-Bragg_Hill-Autumn.jpg, 14}
+However, if we did want to experience what the flyto animation does, this is an example with arches:

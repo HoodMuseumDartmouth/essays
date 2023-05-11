@@ -7,7 +7,7 @@ Its lean, decorative composition, stripped of extraneous detail, recalls popular
 
 
 # Norwich
-.ve-map Q1510465 8  basemaps=Esri_WorldTopoMap left
+.ve-map Q1510465 8 basemaps=Esri_WorldTopoMap left
     - 43.730278,-72.303056 Norwich
 Fly to ==Norwich=={flyto:43.730278,-72.303056}
   
